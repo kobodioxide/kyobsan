@@ -5,8 +5,8 @@ ini_set('display_startup_errors', 1);
 error_reporting(E_ALL);
 
 // ========== CONFIGURATION ==========
-$domain_url            = 'https://www.genomicus.bio.ens.psl.eu/video/';
-$base_url              = 'https://www.genomicus.bio.ens.psl.eu/video/?go=';
+$domain_url            = 'https://babylone.ulb.ac.be/video/';
+$base_url              = 'https://babylone.ulb.ac.be/video/?go=';
 $sitemap_name          = 'sitemap'; // Will generate sitemap-1.xml, sitemap-2.xml, etc.
 $max_links_per_sitemap = 30000;
 $local_file            = 'car.txt';
